@@ -1,0 +1,145 @@
+======================================================================
+GÖRÜNTÜ İŞLEME 3. ÖDEVİ — NOKTA İŞLEMLERİ VE HİSTOGRAM İŞLEME RAPORU
+======================================================================
+
+--- SORU 1: TEMEL NOKTA İŞLEMLERİ İSTATİSTİKLERİ ---
+=== Görüntü İstatistikleri: Soru 1 - orijinal ===
+  • Ortalama (Mean)                : 124.1990
+  • Standart Sapma (Std Deviation) : 47.8996
+  • Entropi (Shannon Entropy, bit) : 7.4505
+  • Minimum Piksel Değeri          : 20
+  • Maksimum Piksel Değeri         : 245
+=== Görüntü İstatistikleri: Soru 1 - parlaklik_artirma ===
+  • Ortalama (Mean)                : 173.8508
+  • Standart Sapma (Std Deviation) : 47.2662
+  • Entropi (Shannon Entropy, bit) : 7.2386
+  • Minimum Piksel Değeri          : 70
+  • Maksimum Piksel Değeri         : 255
+=== Görüntü İstatistikleri: Soru 1 - parlaklik_azaltma ===
+  • Ortalama (Mean)                : 74.7610
+  • Standart Sapma (Std Deviation) : 46.9572
+  • Entropi (Shannon Entropy, bit) : 7.0841
+  • Minimum Piksel Değeri          : 0
+  • Maksimum Piksel Değeri         : 195
+=== Görüntü İstatistikleri: Soru 1 - kontrast_artirma ===
+  • Ortalama (Mean)                : 122.3672
+  • Standart Sapma (Std Deviation) : 71.2072
+  • Entropi (Shannon Entropy, bit) : 7.2449
+  • Minimum Piksel Değeri          : 0
+  • Maksimum Piksel Değeri         : 255
+=== Görüntü İstatistikleri: Soru 1 - kontrast_azaltma ===
+  • Ortalama (Mean)                : 125.7191
+  • Standart Sapma (Std Deviation) : 28.7409
+  • Entropi (Shannon Entropy, bit) : 6.6510
+  • Minimum Piksel Değeri          : 63
+  • Maksimum Piksel Değeri         : 198
+=== Görüntü İstatistikleri: Soru 1 - negatif ===
+  • Ortalama (Mean)                : 130.8010
+  • Standart Sapma (Std Deviation) : 47.8996
+  • Entropi (Shannon Entropy, bit) : 7.4505
+  • Minimum Piksel Değeri          : 10
+  • Maksimum Piksel Değeri         : 235
+=== Görüntü İstatistikleri: Soru 1 - esikleme ===
+  • Ortalama (Mean)                : 128.4737
+  • Standart Sapma (Std Deviation) : 127.4963
+  • Entropi (Shannon Entropy, bit) : 1.0000
+  • Minimum Piksel Değeri          : 0
+  • Maksimum Piksel Değeri         : 255
+
+--- SORU 2: TEST GÖRÜNTÜLERİ HİSTOGRAM VE İSTATİSTİK ANALİZİ ---
+=== Görüntü İstatistikleri: Soru 2 - Test Görüntüsü (normal_goruntu) ===
+  • Ortalama (Mean)                : 124.1990
+  • Standart Sapma (Std Deviation) : 47.8996
+  • Entropi (Shannon Entropy, bit) : 7.4505
+  • Minimum Piksel Değeri          : 20
+  • Maksimum Piksel Değeri         : 245
+=== Görüntü İstatistikleri: Soru 2 - Test Görüntüsü (dusuk_kontrast) ===
+  • Ortalama (Mean)                : 122.7870
+  • Standart Sapma (Std Deviation) : 12.7760
+  • Entropi (Shannon Entropy, bit) : 5.5371
+  • Minimum Piksel Değeri          : 95
+  • Maksimum Piksel Değeri         : 155
+=== Görüntü İstatistikleri: Soru 2 - Test Görüntüsü (koyu_goruntu) ===
+  • Ortalama (Mean)                : 23.4577
+  • Standart Sapma (Std Deviation) : 14.4147
+  • Entropi (Shannon Entropy, bit) : 5.3214
+  • Minimum Piksel Değeri          : 8
+  • Maksimum Piksel Değeri         : 88
+=== Görüntü İstatistikleri: Soru 2 - Test Görüntüsü (yuksek_kontrast) ===
+  • Ortalama (Mean)                : 116.2227
+  • Standart Sapma (Std Deviation) : 97.4824
+  • Entropi (Shannon Entropy, bit) : 5.0144
+  • Minimum Piksel Değeri          : 0
+  • Maksimum Piksel Değeri         : 255
+=== Görüntü İstatistikleri: Soru 2 - Test Görüntüsü (sentetik_dusuk_kontrast) ===
+  • Ortalama (Mean)                : 124.4375
+  • Standart Sapma (Std Deviation) : 14.3935
+  • Entropi (Shannon Entropy, bit) : 5.6433
+  • Minimum Piksel Değeri          : 100
+  • Maksimum Piksel Değeri         : 149
+
+--- SORU 3: KONTRAST GERME ÖNCESİ VE SONRASI İSTATİSTİKLERİ ---
+=== Görüntü İstatistikleri: Soru 3 - Düşük Kontrastlı Görüntü (Önce) ===
+  • Ortalama (Mean)                : 122.7870
+  • Standart Sapma (Std Deviation) : 12.7760
+  • Entropi (Shannon Entropy, bit) : 5.5371
+  • Minimum Piksel Değeri          : 95
+  • Maksimum Piksel Değeri         : 155
+=== Görüntü İstatistikleri: Soru 3 - Kontrast Germe Sonrası (Doğal) ===
+  • Ortalama (Mean)                : 118.0966
+  • Standart Sapma (Std Deviation) : 54.2811
+  • Entropi (Shannon Entropy, bit) : 5.5371
+  • Minimum Piksel Değeri          : 0
+  • Maksimum Piksel Değeri         : 255
+=== Görüntü İstatistikleri: Soru 3 - Sentetik Düşük Kontrast (Önce) ===
+  • Ortalama (Mean)                : 124.4375
+  • Standart Sapma (Std Deviation) : 14.3935
+  • Entropi (Shannon Entropy, bit) : 5.6433
+  • Minimum Piksel Değeri          : 100
+  • Maksimum Piksel Değeri         : 149
+=== Görüntü İstatistikleri: Soru 3 - Sentetik Kontrast Germe Sonrası ===
+  • Ortalama (Mean)                : 127.1742
+  • Standart Sapma (Std Deviation) : 74.9456
+  • Entropi (Shannon Entropy, bit) : 5.6433
+  • Minimum Piksel Değeri          : 0
+  • Maksimum Piksel Değeri         : 255
+
+--- SORU 4: HİSTOGRAM EŞİTLEME ÖNCESİ VE SONRASI İSTATİSTİKLERİ ---
+=== Görüntü İstatistikleri: Soru 4 - Koyu Görüntü (Önce) ===
+  • Ortalama (Mean)                : 23.4577
+  • Standart Sapma (Std Deviation) : 14.4147
+  • Entropi (Shannon Entropy, bit) : 5.3214
+  • Minimum Piksel Değeri          : 8
+  • Maksimum Piksel Değeri         : 88
+=== Görüntü İstatistikleri: Soru 4 - Koyu Görüntü Histogram Eşitleme Sonrası ===
+  • Ortalama (Mean)                : 131.9299
+  • Standart Sapma (Std Deviation) : 70.5988
+  • Entropi (Shannon Entropy, bit) : 5.2878
+  • Minimum Piksel Değeri          : 25
+  • Maksimum Piksel Değeri         : 255
+=== Görüntü İstatistikleri: Soru 4 - Düşük Kontrastlı Görüntü Histogram Eşitleme Sonrası ===
+  • Ortalama (Mean)                : 130.5576
+  • Standart Sapma (Std Deviation) : 73.5960
+  • Entropi (Shannon Entropy, bit) : 5.5312
+  • Minimum Piksel Değeri          : 0
+  • Maksimum Piksel Değeri         : 255
+
+=== Soru 5b: Gamma Düzeltmesi Analizi ve Kullanım Senaryoları ===
+
+1. Gamma Değerlerinin Görüntü İstatistikleri ve Görünüm Üzerindeki Etkisi:
+  • Gamma (γ = 0.5) -> Ortalama: 174.16, Std. Sapma: 36.58, Entropi: 6.9443 bit, Min/Max: [71, 250]
+    Etki: Karanlık (düşük yoğunluklu) pikselleri güçlü biçimde genişletir, parlak bölgeleri sıkıştırır. Genel parlaklık artar ve gölgede kalan karanlık detaylar belirginleşir.
+  • Gamma (γ = 1.0) -> Ortalama: 124.20, Std. Sapma: 47.90, Entropi: 7.4505 bit, Min/Max: [20, 245]
+    Etki: Birim (doğrusal) dönüşümdür (output = input). Görüntünün parlaklık, kontrast ve histogram dağılımında hiçbir değişiklik meydana gelmez.
+  • Gamma (γ = 1.5) -> Ortalama: 91.64, Std. Sapma: 49.29, Entropi: 7.2899 bit, Min/Max: [6, 240]
+    Etki: Orta düzeyde karartma uygular; düşük tonları sıkıştırırken parlak tonların arasındaki kontrastı artırır. Hafif aşırı pozlanmış görüntülerde denge sağlar.
+  • Gamma (γ = 2.0) -> Ortalama: 69.46, Std. Sapma: 46.88, Entropi: 7.0837 bit, Min/Max: [2, 235]
+    Etki: Belirgin karartma sağlar; orta tonları koyu bölgeye çeker, çok parlak veya ağarmış (washed-out) bölgelerdeki detayların ayrışmasını kolaylaştırır.
+  • Gamma (γ = 2.5) -> Ortalama: 53.83, Std. Sapma: 43.22, Entropi: 6.8248 bit, Min/Max: [0, 231]
+    Etki: Güçlü karartma uygular; karanlık ve orta bölgeler 0'a yaklaşırken yalnızca yüksek parlaklıktaki detaylar korunur. Çok parlak/aşırı pozlanmış sahneler için uygundur.
+
+2. Hangi Durumda Hangi Gamma Değeri Kullanılmalı?
+  • γ < 1 (örn. γ = 0.4 – 0.7, ödevde γ = 0.5): Az pozlanmış (underexposed), gece çekimi, kapalı mekan veya ters ışık nedeniyle gölgede kalmış KOYU görüntülerde karanlık bölgelerdeki gizli detayları ortaya çıkarmak için kullanılmalıdır.
+  • γ = 1.0: Görüntünün mevcut aydınlatma ve ton dağılımı dengeliyse, referans/orijinal durumu korumak için kullanılır.
+  • γ > 1 (örn. γ = 1.5, 2.0, 2.5): Aşırı pozlanmış (overexposed), yoğun güneş ışığı altında çekilmiş, parlama içeren veya soluk/ağarmış (washed-out) PARLAK görüntülerde parlak bölgelerdeki detayları geri kazanmak ve kontrastı güçlendirmek için kullanılmalıdır.
+
